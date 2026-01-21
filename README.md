@@ -33,7 +33,7 @@ Includes:
 This project demonstrates how public Aadhaar data can be analyzed to generate insights that support governance, service improvement, and regional planning.
 
 ## Visualizations
-![Monthly Trend](Fig1_Monthly_Trend)
-![Age-wise Distribution](fig2_Age_Distribution)
+![Monthly Trend](Fig1_Monthly_Trend.png)
+![Age-wise Distribution](Fig2_Age_Distribution.png)
 ## 👤 Author  
 Ashylin – Data Analytics / AI Student
