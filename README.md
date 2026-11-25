@@ -14,7 +14,7 @@ Includes:
 
 ##  Tools & Technologies  
 * Microsoft Excel  
-* Power BI (if you used it — remove if not)  
+* Power BI 
 
 ##  Analysis & Visualisation  
 * Monthly Aadhaar Enrolment Trend (Delhi vs Tamil Nadu)  
